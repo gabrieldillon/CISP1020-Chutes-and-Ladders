@@ -1,2 +1,5 @@
 # CISP1020-Chutes-and-Ladders
-CISP 1020 group project implementing a Java-based Chutes and Ladders game.
+Team-4. Chattanooga State CISP 1020.
+Chutes and Ladders in Java.
+
+Members: Gabe Dillon, Sohil
