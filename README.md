@@ -1,6 +1,6 @@
 # Ladder Logic
 CISP 1020-003, Chattanooga State  
-Team-4 — Chutes and Ladders in Java
+Team - 4 — Chutes and Ladders in Java
 
 ## Members
 - Gabe Dillon (`gabrieldillon`)
